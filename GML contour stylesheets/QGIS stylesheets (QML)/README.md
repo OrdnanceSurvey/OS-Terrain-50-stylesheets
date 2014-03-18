@@ -6,7 +6,7 @@ These are QML files for OS Terrain 50 contours in GML format for use in QGIS.
 
 ## Quick start guide
 
-**1.**  Fork or [download](link here) the contents of this repository
+**1.**  Fork or [download](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/archive/master.zip) the contents of this repository
 
 **2.**  Load your OS Terrain 50 contour GML data into QGIS
 
