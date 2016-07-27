@@ -8,7 +8,7 @@ These are QML files for OS Terrain 50 contours in ESRI Shapefile format for use 
 
 **1.**  Fork or [download](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/archive/master.zip) the contents of this repository
 
-**2.**  Load your OS Terrain 50 contour  ESRI Shapefile data (line and point) into QGIS
+**2.**  Load your OS Terrain 50 contour ESRI Shapefile data (line and point) into QGIS
 
 **3.**  Double click on a layer to access the 'Layer Properties' window > click on 'Load Style...' > navigate to the directory containing the QML files (those ending .qml) > select the QML file that corresponds to that layer > click 'Open' > click 'OK'
 
@@ -16,13 +16,17 @@ These are QML files for OS Terrain 50 contours in ESRI Shapefile format for use 
 
 **4.**  We recommend the following layer order:
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/raw/master/ESRI%20Shapefile%20contour%20stylesheets/QGIS%20stylesheets%20(QML)/images/Terrain50_SHP_conts_layer_order.PNG "Recommended layer order for OS Terrain 50 contours")
+  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/raw/master/ESRI%20Shapefile%20contour%20stylesheets/QGIS%20stylesheets%20(QML)/images/OS_Terrain_50_layer_order.png "Recommended layer order for OS Terrain 50 contours")
 
-We recommend viewing the data between **1:1,000** and **1:50,000** for maximum legibility
+We recommend viewing the data between **1:1,000** and **1:200,000** for maximum legibility, but turn the points off at scales smaller than 1:50 000 (or activate scale-based visibility under Rendering in the layer label properties).
 
 Your data should now look similar to this: 
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/raw/master/ESRI%20Shapefile%20contour%20stylesheets/QGIS%20stylesheets%20(QML)/images/Terrain50_conts_screenshot.PNG "Screenshot of OS Terrain 50 contours at 1:25,000")
+  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/raw/master/ESRI%20Shapefile%20contour%20stylesheets/QGIS%20stylesheets%20(QML)/images/OS_Terrain_50_screenshot.png "Screenshot of OS Terrain 50 contours")
+
+##Compatibility notes
+
+We strive to make our stylesheets compatible with the latest long-term release of QGIS.
 
 ## Additional information
 
@@ -34,4 +38,4 @@ Your data should now look similar to this:
 
 ## Licence
 
-By using these stylesheets you are accepting the terms in the [Stylesheet Licence](http://www.ordnancesurvey.co.uk/docs/licences/stylesheet-licence-v2.pdf)
+By using these stylesheets you are accepting the terms of the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
