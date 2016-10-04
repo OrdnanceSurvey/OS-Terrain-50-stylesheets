@@ -6,7 +6,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
     <Name>OS Terrain&#8482; 50 (LandWaterBoundary)</Name>
     <UserStyle>
       <Title>Product SLD - July 2016</Title>
-      <Abstract>OS Terrain&#8482; 50. Ordnance Survey. &#169; Crown copyright 2016.</Abstract>
+      <Abstract>OS Terrain&#174; 50. Ordnance Survey. &#169; Crown copyright 2016.</Abstract>
       
       <!--  LandWaterBoundary  -->
       
