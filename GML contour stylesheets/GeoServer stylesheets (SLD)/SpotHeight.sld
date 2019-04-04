@@ -40,7 +40,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           </PointSymbolizer>
           <TextSymbolizer>
             <Label>
-              <ogc:PropertyName>PROP_VALUE</ogc:PropertyName>
+              <ogc:PropertyName>propertyValue</ogc:PropertyName>
             </Label>
             <Font>
               <CssParameter name="font-family">Arial</CssParameter>
