@@ -31,7 +31,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <Label>
               <ogc:Function name="numberFormat">
                 <ogc:Literal>##</ogc:Literal>
-                <ogc:PropertyName>PROP_VALUE</ogc:PropertyName>
+                <ogc:PropertyName>propertyValue</ogc:PropertyName>
               </ogc:Function>
             </Label>
             <Font>
@@ -71,7 +71,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <Label>
               <ogc:Function name="numberFormat">
                 <ogc:Literal>##</ogc:Literal>
-                <ogc:PropertyName>PROP_VALUE</ogc:PropertyName>
+                <ogc:PropertyName>propertyValue</ogc:PropertyName>
               </ogc:Function>
             </Label>
             <Font>
@@ -111,7 +111,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <Label>
               <ogc:Function name="numberFormat">
                 <ogc:Literal>##</ogc:Literal>
-                <ogc:PropertyName>PROP_VALUE</ogc:PropertyName>
+                <ogc:PropertyName>propertyValue</ogc:PropertyName>
               </ogc:Function>
             </Label>
             <Font>
