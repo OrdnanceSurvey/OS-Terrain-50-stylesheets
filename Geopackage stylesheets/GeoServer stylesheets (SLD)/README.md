@@ -17,7 +17,9 @@ These are Styled Layer Descriptor files for OS Terrain 50 contours in Geopackage
 **5.**  To create OS Terrain 50 in GeoServer you will need to create a Layer Group. If using the GUI then navigate to Layer Groups > Add new layer group > Add Layer and choose each layer in turn to create the following layer order:
 
 T50 SpotHeight
+
 T50 LandWaterBoundary
+
 T50 ContourLine
 
 The name of this Layer Group is the ‘layer’ your web map service (WMS) will need to call.
