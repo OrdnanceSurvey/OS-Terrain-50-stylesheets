@@ -16,7 +16,7 @@ These are LYR files for OS Terrain 50 contours in ESRI Shapefile format for use 
 
 Your Table of Contents should now look like below. This is the recommended layer order.
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/raw/master/ESRI%20Shapefile%20contour%20stylesheets/ESRI%20styleheets%20(LYR)/images/OS_Terrain_50_layer_order.png "Recommended layer order for OS Terrain 50 contours")
+  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/blob/05a3b1424146545045ad80271a3a19b7375636f3/ESRI%20Shapefile%20contour%20stylesheets/ESRI%20stylesheets%20(LYR)/images/OS_Terrain_50_layer_order.png "Recommended layer order for OS Terrain 50 contours")
 
 We recommend viewing the data between **1:1,000** and **1:200,000** for maximum legibility.
 
