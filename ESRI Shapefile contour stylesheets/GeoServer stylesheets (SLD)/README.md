@@ -1,6 +1,6 @@
 # OS Terrain 50 contours
 
-These are Styled Layer Descriptor files for OS Terrain 50 contours in ESRI Shapefile format for use in GeoServer.
+These are **SLD** files for OS Terrain 50 contours in **ESRI Shapefile** format for use in **GeoServer**.
 
 *The stylesheets have been designed to work with the data as it is supplied.*
 
