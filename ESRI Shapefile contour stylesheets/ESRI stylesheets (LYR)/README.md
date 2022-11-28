@@ -1,6 +1,6 @@
 # OS Terrain 50 contours
 
-These are LYR files for OS Terrain 50 contours in ESRI Shapefile format for use in ArcGIS.
+These are **LYR** files for OS Terrain 50 contours in **ESRI Shapefile** format for use in **ArcGIS**.
 
 *They have been designed to work with the data as it is supplied.*
 
@@ -22,19 +22,17 @@ We recommend viewing the data between **1:1,000** and **1:200,000** for maximum 
 
 Your data should now look similar to this: 
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/raw/master/ESRI%20Shapefile%20contour%20stylesheets/ESRI%20styleheets%20(LYR)/images/OS_Terrain_50_screenshot.png "Screenshot of OS Terrain 50 contours")
+  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/blob/ced2fef6cf8c2c3e3cdb71b3f082f6d6a66150ad/ESRI%20Shapefile%20contour%20stylesheets/ESRI%20stylesheets%20(LYR)/images/OS_Terrain_50_screenshot.png "Screenshot of OS Terrain 50 contours")
 
-##Compatibility notes
+## Compatibility notes
 
 Our Layer Files are compatible with versions of ESRI ArcGIS back to version 9.3 (released in 2008).
 
 ## Additional information
 
-[More information about how to download, apply and customise our stylesheets including a Stylesheet User Guide](http://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)
+[For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 [More information about OS Terrain 50](http://www.ordnancesurvey.co.uk/business-and-government/products/terrain-50.html)
-
-[More information about cartographic design at Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/)
 
 ## Licence
 
