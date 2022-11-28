@@ -1,6 +1,6 @@
 # OS Terrain 50 contours
 
-These are QML files for OS Terrain 50 contours in ESRI Shapefile format for use in QGIS.
+These are **QML** files for OS Terrain 50 contours in **ESRI Shapefile** format for use in **QGIS**.
 
 *They have been designed to work with the data as it is supplied.*
 
