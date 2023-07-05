@@ -2,7 +2,7 @@
 
 These are **SLD** files for OS Terrain 50 contours in **Geopackage** format for use in **GeoServer**.
 
-*The stylesheets have been designed to work with the data as it is supplied.*
+*The stylesheets have been designed to work with the data as it is supplied, downloaded from the OS Data Hub **prior to July 2023***
 
 ## Quick start guide
 
