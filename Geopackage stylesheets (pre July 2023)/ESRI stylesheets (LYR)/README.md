@@ -18,6 +18,10 @@ Your Table of Contents should now look like below. This is the recommended layer
 
   ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/blob/1750c54bb49f8d51a723920f72e9253e1ba85c29/Geopackage%20stylesheets%20(pre%20July%202023)/ESRI%20stylesheets%20(LYR)/images/OS_Terrain_50_layer_order.png "Recommended layer order for OS Terrain 50 contours")
 
+**5**. To fix the data links, click on the exclamation marks. A file explorer window will open. Navigate to where your OS Terrain 50 data is stored and select the data that matches the layer. Alternatively, right click on the layer and go to Properties > On the Source tab click 'Set Data Source'.
+
+Repeat step 5 for all layers if it doesn't fix the other data links automatically.
+
 We recommend viewing the data between **1:1,000** and **1:200,000** for maximum legibility.
 
 Your data should now look similar to this: 
