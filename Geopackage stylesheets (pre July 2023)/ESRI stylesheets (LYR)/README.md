@@ -22,7 +22,7 @@ We recommend viewing the data between **1:1,000** and **1:200,000** for maximum 
 
 Your data should now look similar to this: 
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/raw/master/Geopackage%20stylesheets/ESRI%20stylesheets%20(LYR)/images/OS_Terrain_50_screenshot.png "Screenshot of OS Terrain 50 contours")
+  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/blob/64b28c9dfb1a28967c6d3baee19f1da08535b958/Geopackage%20stylesheets%20(pre%20July%202023)/ESRI%20stylesheets%20(LYR)/images/OS_Terrain_50_screenshot.png "Screenshot of OS Terrain 50 contours")
 
 ##Compatibility notes
 
