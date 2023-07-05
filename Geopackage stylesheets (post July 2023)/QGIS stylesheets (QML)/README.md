@@ -16,7 +16,7 @@ These are **QML** files for OS Terrain 50 contours in **Geopackage** format for 
 
 **4.**  We recommend the following layer order:
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/raw/master/Geopackage%20stylesheets/QGIS%20stylesheets%20(QML)/images/OS_Terrain_50_layer_order.png "Recommended layer order for OS Terrain 50 contours")
+  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/blob/7aca2762432e4405c56dfa8cf8ecae6a02d130f6/Geopackage%20stylesheets%20(post%20July%202023)/QGIS%20stylesheets%20(QML)/images/OS_Terrain_50_layer_order.png "Recommended layer order for OS Terrain 50 contours")
 
 We recommend viewing the data between **1:1,000** and **1:200,000** for maximum legibility, but turn the points off at scales smaller than 1:50 000 (or activate scale-based visibility under Rendering in the layer label properties).
 
