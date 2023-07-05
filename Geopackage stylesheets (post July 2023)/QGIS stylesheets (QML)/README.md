@@ -22,7 +22,7 @@ We recommend viewing the data between **1:1,000** and **1:200,000** for maximum 
 
 Your data should now look similar to this: 
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/raw/master/Geopackage%20stylesheets/QGIS%20stylesheets%20(QML)/images/OS_Terrain_50_screenshot.png "Screenshot of OS Terrain 50 contours")
+  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/blob/4a5dfc1a327f9b0ef11b4d199e5d1b9235ddb2ad/Geopackage%20stylesheets%20(post%20July%202023)/QGIS%20stylesheets%20(QML)/images/OS_Terrain_50_screenshot.png "Screenshot of OS Terrain 50 contours")
 
 ##Compatibility notes
 
