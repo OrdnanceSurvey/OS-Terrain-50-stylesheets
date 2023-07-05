@@ -2,7 +2,7 @@
 
 These are **LYR** files for OS Terrain 50 contours in **Geopackage** format for use in **ArcGIS**.
 
-*They have been designed to work with the data as it is supplied.*
+*They have been designed to work with the data as it is supplied, downloaded from the OS Data Hub **prior to July 2023***
 
 ## Quick start guide
 
@@ -24,7 +24,7 @@ Your data should now look similar to this:
 
   ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/blob/64b28c9dfb1a28967c6d3baee19f1da08535b958/Geopackage%20stylesheets%20(pre%20July%202023)/ESRI%20stylesheets%20(LYR)/images/OS_Terrain_50_screenshot.png "Screenshot of OS Terrain 50 contours")
 
-##Compatibility notes
+## Compatibility notes
 
 Our Layer Files are compatible with versions of ESRI ArcGIS back to version 9.3 (released in 2008).
 
