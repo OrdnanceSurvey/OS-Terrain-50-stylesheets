@@ -20,7 +20,7 @@ Repeat step 5 for all layers if it doesn't fix the other data links automaticall
 
 Your Table of Contents should now look like below. This is the recommended layer order.
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/blob/3a188d1579bf9eb9af9228ae6a144781e9d296e5/Geopackage%20stylesheets%20(post%20July%202023)/ESRI%20stylesheets%20(LYR)/images/LayerOrder_Terrain50.PNG "Recommended layer order for OS Terrain 50 contours")
+  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/blob/dc02a2d97c113924bb88027f6f741bbba877127d/Geopackage%20stylesheets%20(post%20July%202023)/ESRI%20ArcPro%20stylesheets%20(LYRX)/images/ArcPro_LayerOrder_Terrain50.PNG "Recommended layer order for OS Terrain 50 contours")
 
 We recommend viewing the data between **1:1,000** and **1:200,000** for maximum legibility.
 
