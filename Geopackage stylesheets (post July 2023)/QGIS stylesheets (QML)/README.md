@@ -2,7 +2,7 @@
 
 These are **QML** files for OS Terrain 50 contours in **Geopackage** format for use in **QGIS**.
 
-*They have been designed to work with the data as it is supplied, downloaded from the OS Data Hub **from July 2023 onwards"". *
+*They have been designed to work with the data as it is supplied, downloaded from the OS Data Hub **from July 2023 onwards**. *
 
 ## Quick start guide
 
