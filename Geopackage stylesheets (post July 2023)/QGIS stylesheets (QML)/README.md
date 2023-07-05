@@ -24,7 +24,7 @@ Your data should now look similar to this:
 
   ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/blob/4a5dfc1a327f9b0ef11b4d199e5d1b9235ddb2ad/Geopackage%20stylesheets%20(post%20July%202023)/QGIS%20stylesheets%20(QML)/images/OS_Terrain_50_screenshot.png "Screenshot of OS Terrain 50 contours")
 
-##Compatibility notes
+## Compatibility notes
 
 We strive to make our stylesheets compatible with the latest long-term release of QGIS.
 
