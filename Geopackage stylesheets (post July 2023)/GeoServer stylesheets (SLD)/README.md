@@ -28,7 +28,7 @@ The scale denominators have been set to allow viewing between 1:1 000 and 1:500 
 
 Your map should look similar to this:
 
-  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/raw/master/Geopackage%20stylesheets/GeoServer%20stylesheets%20(SLD)/images/OS_Terrain_50_screenshot.png "Screenshot of OS Terrain 50 contours")
+  ![Screenshot](https://github.com/OrdnanceSurvey/OS-Terrain-50-stylesheets/blob/f011247e6d52dcf58b2bbe77e70083f6caba10ea/Geopackage%20stylesheets%20(post%20July%202023)/GeoServer%20stylesheets%20(SLD)/images/OS_Terrain_50_screenshot.png "Screenshot of OS Terrain 50 contours")
 
 ## Compatibility notes
 
